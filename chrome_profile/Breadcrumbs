@@ -1,0 +1,75 @@
+0:00:05 Tab1 StartNav9 #renderer-script #auto_subframe
+0:00:05 Tab1 FinishNav9
+0:00:05 Tab1 PageLoad
+0:00:06 Tab1 StartNav10 #typed
+0:00:06 Tab1 FinishNav10
+0:00:07 Tab1 PageLoad
+0:00:08 Tab1 StartNav11 #renderer-script #auto_subframe
+0:00:08 Tab1 FinishNav11
+0:00:08 Tab1 PageLoad
+0:00:08 Tab1 StartNav12 #renderer-script #auto_subframe
+0:00:08 Tab1 FinishNav12
+0:00:08 Tab1 PageLoad
+0:00:08 Tab1 StartNav13 #renderer-script #auto_subframe
+0:00:08 Tab1 FinishNav13
+0:00:08 Tab1 PageLoad
+0:00:08 Tab1 StartNav14 #renderer-script #auto_subframe
+0:00:08 Tab1 FinishNav14
+0:00:08 Tab1 PageLoad
+0:00:10 Tab1 StartNav15 #renderer-script #auto_subframe
+0:00:10 Tab1 FinishNav15
+0:00:10 Tab1 PageLoad
+0:00:10 Tab1 StartNav16 #renderer-script #auto_subframe
+0:00:10 Tab1 FinishNav16
+0:00:10 Tab1 PageLoad
+0:00:10 Tab1 StartNav17 #renderer-script #auto_subframe
+0:00:10 Tab1 FinishNav17
+0:00:10 Tab1 PageLoad
+0:00:10 Tab1 StartNav18 #renderer-script #auto_subframe
+0:00:10 Tab1 FinishNav18
+0:00:10 Tab1 PageLoad
+0:00:21 Tab1 StartNav19 #renderer-user #link
+0:00:21 Tab1 FinishNav19
+0:00:24 TextSelectionChanged
+0:00:31 TextSelectionChanged
+0:00:33 TextSelectionChanged
+0:00:33 Widget Closed: StatusBubble
+0:00:34 TextSelectionChanged
+0:00:36 TextSelectionChanged
+0:00:37 TextSelectionChanged
+0:00:41 Widget Closed: MenuHost
+0:00:41 Browser1 Insert active Tab2 at 1
+0:00:41 Tab2 StartNav20 #reload
+0:00:41 Media.Hidden
+0:00:41 Tab2 FinishNav20
+0:00:42 Tab2 PageLoad
+0:00:47 CloseTab_NoAlertIndicator
+0:00:47 Tab2 RenderProcessGone
+0:00:47 Browser1 Close Tab2 at 1
+0:00:47 Media.Shown
+0:00:48 TextSelectionChanged
+0:00:53 TextSelectionChanged
+0:01:09 Tab1 StartNav21 #renderer-user #link
+0:01:09 Tab1 FinishNav21
+0:01:14 TextSelectionChanged
+0:01:23 Tab1 StartNav22 #renderer-user #link
+0:01:23 Tab1 FinishNav22
+0:01:34 Widget Closed: StatusBubble
+0:01:41 Tab1 StartNav23 #renderer-user #link
+0:01:41 Tab1 FinishNav23
+0:01:50 Tab1 StartNav24 #renderer-user #link
+0:01:50 Tab1 FinishNav24
+0:01:54 UserEducation.MessageNotShown
+0:01:54 UserEducation.MessageNotShown.IPH_LiveCaption
+0:01:54 UserEducation.MessageNotShown.BlockedByNewProfile
+0:01:58 UserEducation.MessageNotShown
+0:01:58 UserEducation.MessageNotShown.IPH_LiveCaption
+0:01:58 UserEducation.MessageNotShown.BlockedByNewProfile
+0:01:58 UserEducation.MessageNotShown
+0:01:58 UserEducation.MessageNotShown.IPH_LiveCaption
+0:01:58 UserEducation.MessageNotShown.BlockedByNewProfile
+0:02:00 Tab1 StartNav25 #renderer-user #link
+0:02:00 Tab1 FinishNav25
+0:02:06 TextSelectionChanged
+0:02:09 TextSelectionChanged
+0:02:20 Widget Closed: StatusBubble
